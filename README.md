@@ -4,3 +4,17 @@ This is an Azure Stream Analytics project that ingests real-time weather data fr
 
 ## Architecture
 ![Azure Stream Analytics Architecture diagram](Architecture.jpg)
+
+## Technology Used
+1. Programming language - Python
+2. Azure Cloud Platform
+   * Azure Event Hubs
+   * Azure Stream Analytics
+   * Azure Data Lake Storage Gen 2
+
+## Data Source
+Weather data scraped from free weather website:
+URL: https://weather.com/weather/today/l/USNY0996:1:US
+
+## Scripts for Project
+[Web scraper script](WeatherScraper.py)
