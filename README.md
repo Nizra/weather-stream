@@ -18,3 +18,7 @@ URL: https://weather.com/weather/today/l/USNY0996:1:US
 
 ## Scripts for Project
 [Web scraper script](WeatherScraper.py)
+[T-SQL script](StreamAnalyticsQuery.PNG)
+
+## Output
+
